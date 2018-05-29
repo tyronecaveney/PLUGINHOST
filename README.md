@@ -3,7 +3,7 @@
 *Disclaimer: the Canvas Plugin Host facilitates the use of VST instruments already installed/authorized on/for your computer. This software **does not** have built-in VST instruments or effects. Canvas **do not**  endorse or accept liability for any VST plugins that have been pirated, or penalties incurred as a result.*
 
 
-## My Plugin Host software for Software Development II.
+## My "Plugin Host" for Software Development II.
 
 
 The Plugin Host is a standalone application capable of loading and playing AU/VST/VST3 instruments. It can currently play one plugin instrument at a time and can swap between them. The User Interface design has been iterative, and therefore has changed between the previous assessment and now. Instead of a seperate finder window to choose the plugin, there is now a simple pop-up menu from the home screen - accessed by a right-click. This idea was favoured as it streamlines the process from application initialisation to GUI display. After the user has selected which instrument they would like to use, the GUI automatically opens in a new window - at this point MIDI input and Audio Output connections to and from the plugin are ready.
@@ -26,7 +26,7 @@ The Plugin Host is a standalone application capable of loading and playing AU/VS
 5. **F.t.A** MIDI Mapping
 6. **F.t.A** Revised UI to incorporate Plugin Browser
 
-
+-------------------------------------------------------------------------------------------------
 # USER QUICK-START GUIDE
 **1.** To get started with the Plugin Host, **you must first scan your OS for available plugins**:
   - *"Options"* -> *"Edit List of Available Plugins"* (CMD + P)
